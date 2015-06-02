@@ -1,0 +1,14 @@
+[24-Mar-2015 18:29:37 UTC] PHP Warning:  escapeshellarg() has been disabled for security reasons in /home/hacedore/public_html/makerspace/wiki/includes/GlobalFunctions.php on line 2714
+[24-Mar-2015 18:29:37 UTC] PHP Warning:  escapeshellarg() has been disabled for security reasons in /home/hacedore/public_html/makerspace/wiki/includes/GlobalFunctions.php on line 2714
+[24-Mar-2015 18:29:37 UTC] PHP Warning:  escapeshellarg() has been disabled for security reasons in /home/hacedore/public_html/makerspace/wiki/includes/GlobalFunctions.php on line 2714
+[24-Mar-2015 18:29:37 UTC] PHP Warning:  escapeshellarg() has been disabled for security reasons in /home/hacedore/public_html/makerspace/wiki/includes/GlobalFunctions.php on line 2714
+[24-Mar-2015 18:29:37 UTC] PHP Warning:  popen() has been disabled for security reasons in /home/hacedore/public_html/makerspace/wiki/includes/GlobalFunctions.php on line 3100
+[24-Mar-2015 18:29:37 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, null given in /home/hacedore/public_html/makerspace/wiki/includes/GlobalFunctions.php on line 3102
+[24-Mar-2015 18:29:37 UTC] PHP Warning:  pclose() expects parameter 1 to be resource, null given in /home/hacedore/public_html/makerspace/wiki/includes/GlobalFunctions.php on line 3107
+[24-Mar-2015 18:29:37 UTC] PHP Warning:  escapeshellarg() has been disabled for security reasons in /home/hacedore/public_html/makerspace/wiki/includes/GlobalFunctions.php on line 2714
+[24-Mar-2015 18:29:37 UTC] PHP Warning:  escapeshellarg() has been disabled for security reasons in /home/hacedore/public_html/makerspace/wiki/includes/GlobalFunctions.php on line 2714
+[24-Mar-2015 18:29:37 UTC] PHP Warning:  escapeshellarg() has been disabled for security reasons in /home/hacedore/public_html/makerspace/wiki/includes/GlobalFunctions.php on line 2714
+[24-Mar-2015 18:29:37 UTC] PHP Warning:  escapeshellarg() has been disabled for security reasons in /home/hacedore/public_html/makerspace/wiki/includes/GlobalFunctions.php on line 2714
+[24-Mar-2015 18:29:37 UTC] PHP Warning:  popen() has been disabled for security reasons in /home/hacedore/public_html/makerspace/wiki/includes/GlobalFunctions.php on line 3112
+[24-Mar-2015 18:29:37 UTC] PHP Warning:  fread() expects parameter 1 to be resource, null given in /home/hacedore/public_html/makerspace/wiki/includes/GlobalFunctions.php on line 3115
+[24-Mar-2015 18:29:37 UTC] PHP Warning:  pclose() expects parameter 1 to be resource, null given in /home/hacedore/public_html/makerspace/wiki/includes/GlobalFunctions.php on line 3121
